@@ -15,4 +15,8 @@ public class J {
     public void ab() {
         System.out.println();
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }
