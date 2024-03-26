@@ -23,4 +23,8 @@ public class J {
     public String kk() {
         return "Hello world";
     }
+
+    public Object rr() {
+        return null;
+    }
 }

@@ -23,4 +23,8 @@ public class F {
     public int ae() {
         return 8;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
