@@ -19,4 +19,8 @@ public class C {
     public int cc() {
         return 39;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
 }

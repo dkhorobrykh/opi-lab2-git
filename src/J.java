@@ -19,4 +19,8 @@ public class J {
     public void bb() {
         System.out.println(42);
     }
+
+    public String kk() {
+        return "Hello world";
+    }
 }
