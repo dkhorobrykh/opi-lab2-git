@@ -27,4 +27,8 @@ public class G {
     public Object pp() {
         return this;
     }
+
+    public int cc() {
+        return 39;
+    }
 }

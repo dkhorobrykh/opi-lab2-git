@@ -27,4 +27,8 @@ public class C {
     public int af() {
         return -1;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

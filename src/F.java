@@ -27,4 +27,8 @@ public class F {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public Object rr() {
+        return null;
+    }
 }

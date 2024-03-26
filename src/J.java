@@ -27,4 +27,8 @@ public class J {
     public Object rr() {
         return null;
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
 }
