@@ -19,4 +19,8 @@ public class F {
     public double ee() {
         return java.lang.Math.PI;
     }
+
+    public int ae() {
+        return 8;
+    }
 }

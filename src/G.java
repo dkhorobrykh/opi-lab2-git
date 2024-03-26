@@ -19,4 +19,8 @@ public class G {
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
 }
