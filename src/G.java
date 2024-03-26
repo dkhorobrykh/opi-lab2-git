@@ -11,4 +11,8 @@ public class G {
     public byte oo() {
         return 3;
     }
+
+    public long ac() {
+        return 222;
+    }
 }

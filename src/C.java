@@ -11,4 +11,8 @@ public class C {
     public int ae() {
         return java.lang.Math.abs(-7);
     }
+
+    public long dd() {
+        return 99999;
+    }
 }
