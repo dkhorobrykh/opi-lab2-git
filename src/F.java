@@ -15,4 +15,8 @@ public class F {
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
 }
